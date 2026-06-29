@@ -28,7 +28,7 @@ bench-validated and built for makers, developers, and small-scale production.
   <b>USB-C ESP Programmer — Isolated</b><br>
   galvanic isolation for mains / different-ground targets<br><br>
   <a href="https://github.com/hardcodebr/usb-esp-programmer-isolated">📖 Docs</a> &nbsp;·&nbsp;
-  <a href="https://lectronz.com/stores/hardcode-electronics">🛒 Buy</a>
+  <a href="https://lectronz.com/products/galvanically-isolated-esp-programmer-auto-reset">🛒 Buy</a>
 </td>
 </tr>
 </table>
