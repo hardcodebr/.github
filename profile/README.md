@@ -33,14 +33,6 @@ bench-validated and built for makers, developers, and small-scale production.
 </tr>
 </table>
 
-## 🔧 All products
-
-| Product | What it is | Links |
-|---|---|---|
-| **USB-C ESP Programmer** | USB-to-UART programmer for ESP8266/ESP32, auto reset/boot | [Docs](https://github.com/hardcodebr/usb-esp-programmer) · [Buy](https://lectronz.com/products/usb-c-uart-esp-programmer-auto-reset-auto-boot) |
-| **USB-C ESP Programmer — Isolated** | Galvanically isolated variant | [Docs](https://github.com/hardcodebr/usb-esp-programmer-isolated) · [Buy](https://lectronz.com/stores/hardcode-electronics) |
-| **NetMonitor** | ESP32 network-uptime monitor with web dashboard | _coming soon_ |
-| **ESP32 Flash Station** | Standalone, no-PC production flasher | _coming soon_ |
 
 ## 📚 Documentation
 Every product has a repo with a **quick-start, pinout, datasheet, and FAQ** — plus a hosted
