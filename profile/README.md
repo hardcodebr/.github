@@ -38,6 +38,9 @@ bench-validated and built for makers, developers, and small-scale production.
 Every product has a repo with a **quick-start, pinout, datasheet, and FAQ** — plus a hosted
 docs site. Hardware design files (schematics) are not published.
 
+## 🛠️ Custom designs & improvements
+Need a **custom board**, a tweak to one of ours, or have an **idea to improve a product**? We take on custom design and engineering work — tell us what you need: **support@hardcode.com.br**
+
 ## 📫 Contact
 **support@hardcode.com.br** · [hardcode.com.br](https://hardcode.com.br)
 
