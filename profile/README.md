@@ -3,7 +3,7 @@
      Add the logo to `profile/assets/hardcode.png` (use products/ESPProgrammers/images/logo-en.png). -->
 
 <div align="center">
-  <img src="profile/assets/hardcode.png" alt="HardCode" width="300">
+  <img src="https://raw.githubusercontent.com/hardcodebr/.github/main/profile/assets/hardcode.png" alt="HardCode" width="300">
 
   ### Embedded-systems hardware — designed and built by engineers.
 
