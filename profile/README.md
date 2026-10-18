@@ -39,7 +39,7 @@ bench-validated and built for makers, developers, and small-scale production.
 <img src="https://raw.githubusercontent.com/hardcodebr/.github/main/profile/assets/hc26060.jpg" width="330" alt="KE Black Pill">
 
 A small breadboard-friendly **NXP Kinetis KE02 / KE04** board (5 V-tolerant Cortex-M0+): SWD header, USB-C serial, user LED and button — ready for learning, prototyping and testing SWD programmers.
-📖 Docs coming soon
+<a href="https://github.com/hardcodebr/ke-black-pill">📖 Docs</a> (preview)
 
 ## 📚 Documentation
 Every product has a repo with a **quick-start, pinout, datasheet, and FAQ** — plus a hosted
