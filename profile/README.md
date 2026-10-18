@@ -3,7 +3,7 @@
 
   ### Embedded-systems hardware — designed and built by engineers.
 
-  [🌐 Website](https://hardcode.com.br) · [🛒 Shop](https://lectronz.com/stores/hardcode-electronics) · ✉️ support@hardcode.tools
+  [🌐 Website](https://hardcode.tools) · [🛒 Shop](https://lectronz.com/stores/hardcode-electronics) · ✉️ support@hardcode.tools
 </div>
 
 ---
@@ -47,6 +47,6 @@ docs site. Hardware design files (schematics) are not published.
 Need a **custom board**, a tweak to one of ours, or have an **idea to improve a product**? We take on custom design and engineering work — tell us what you need: **support@hardcode.tools**
 
 ## 📫 Contact
-**support@hardcode.tools** · [hardcode.com.br](https://hardcode.com.br)
+**support@hardcode.tools** · [hardcode.tools](https://hardcode.tools)
 
 <sub>HardCode is a trademark of Hardcode Projetos e Desenvolvimento de Sistemas LTDA.</sub>
