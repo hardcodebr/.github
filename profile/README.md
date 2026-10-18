@@ -3,7 +3,7 @@
 
   ### Embedded-systems hardware — designed and built by engineers.
 
-  [🌐 Website](https://hardcode.com.br) · [🛒 Shop](https://lectronz.com/stores/hardcode-electronics) · ✉️ support@hardcode.com.br
+  [🌐 Website](https://hardcode.com.br) · [🛒 Shop](https://lectronz.com/stores/hardcode-electronics) · ✉️ support@hardcode.tools
 </div>
 
 ---
@@ -34,14 +34,19 @@ bench-validated and built for makers, developers, and small-scale production.
 </table>
 
 
+## 🔜 Coming soon — Kinetis KE02 / KE04 module
+
+A small breadboard-friendly **NXP Kinetis KE02 / KE04** board (5 V-tolerant Cortex-M0+): SWD header, USB-C serial, user LED and button — ready for learning, prototyping and testing SWD programmers.
+<a href="https://github.com/hardcodebr/kinetis-ke-module">📖 Docs</a> (preview)
+
 ## 📚 Documentation
 Every product has a repo with a **quick-start, pinout, datasheet, and FAQ** — plus a hosted
 docs site. Hardware design files (schematics) are not published.
 
 ## 🛠️ Custom designs & improvements
-Need a **custom board**, a tweak to one of ours, or have an **idea to improve a product**? We take on custom design and engineering work — tell us what you need: **support@hardcode.com.br**
+Need a **custom board**, a tweak to one of ours, or have an **idea to improve a product**? We take on custom design and engineering work — tell us what you need: **support@hardcode.tools**
 
 ## 📫 Contact
-**support@hardcode.com.br** · [hardcode.com.br](https://hardcode.com.br)
+**support@hardcode.tools** · [hardcode.com.br](https://hardcode.com.br)
 
 <sub>HardCode is a trademark of Hardcode Projetos e Desenvolvimento de Sistemas LTDA.</sub>
