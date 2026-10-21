@@ -51,4 +51,4 @@ Need a **custom board**, a tweak to one of ours, or have an **idea to improve a 
 ## 📫 Contact
 **support@hardcode.tools** · [hardcode.tools](https://hardcode.tools)
 
-<sub>HardCode is a trademark of Hardcode Projetos e Desenvolvimento de Sistemas LTDA.</sub>
+<sub>Hardcode · https://hardcode.tools · support@hardcode.tools</sub>
